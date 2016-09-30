@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Volumes/DATA/Users/dweaver/AndroidStudioProjects/Rate That Record/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="bc81b162f2150db88d4dfa6fccbc966a9a55d3fd">
+        <dex dex="/Volumes/DATA/Users/dweaver/AndroidStudioProjects/Rate That Record/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_75dd5e7b5a8913b57aaba07311b714272602d7ca/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/DATA/Users/dweaver/AndroidStudioProjects/Rate That Record/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Volumes/DATA/Users/dweaver/AndroidStudioProjects/Rate That Record/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_7fef02b277b266158fdf7fc349c6024183893ae7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dweaver/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Volumes/DATA/Users/dweaver/AndroidStudioProjects/Rate That Record/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_d87ba0ce0899a91cb59a1db10b3ea83b4ffb52c5/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/DATA/Users/dweaver/AndroidStudioProjects/Rate That Record/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Volumes/DATA/Users/dweaver/AndroidStudioProjects/Rate That Record/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_98b77aa49b862f74d82d757cde855acf6fa37b95/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/DATA/Users/dweaver/AndroidStudioProjects/Rate That Record/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c378676298dd58f2a317d8545588e5f638765c49">
+        <dex dex="/Volumes/DATA/Users/dweaver/AndroidStudioProjects/Rate That Record/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6a90481ec882bb8d02863cef69e615bbfa203433/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/DATA/Users/dweaver/AndroidStudioProjects/Rate That Record/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Volumes/DATA/Users/dweaver/AndroidStudioProjects/Rate That Record/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_99b87130f807753456b07fdf232f51959f7e1603/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/DATA/Users/dweaver/AndroidStudioProjects/Rate That Record/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Volumes/DATA/Users/dweaver/AndroidStudioProjects/Rate That Record/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_2633fe67dd9e96c7d120a6ac99fd9b154623698f/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/DATA/Users/dweaver/AndroidStudioProjects/Rate That Record/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Volumes/DATA/Users/dweaver/AndroidStudioProjects/Rate That Record/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_12a624161b67216e786b7f6c87282ac44d121da9/classes.dex" />
+    </item>
+
+</items>
